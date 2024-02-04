@@ -26,7 +26,7 @@
 9. Secure your Organizations account root user credentials
 10. Monitor access and usage
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html \n
 https://docs.aws.amazon.com/IAM/latest/UserGuide/root-user-best-practices.html
 
 
